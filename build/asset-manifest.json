@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-firebase-form/static/css/main.27881633.css",
+    "main.js": "/react-firebase-form/static/js/main.d6695904.js",
+    "static/js/787.db14d134.chunk.js": "/react-firebase-form/static/js/787.db14d134.chunk.js",
+    "index.html": "/react-firebase-form/index.html",
+    "main.27881633.css.map": "/react-firebase-form/static/css/main.27881633.css.map",
+    "main.d6695904.js.map": "/react-firebase-form/static/js/main.d6695904.js.map",
+    "787.db14d134.chunk.js.map": "/react-firebase-form/static/js/787.db14d134.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27881633.css",
+    "static/js/main.d6695904.js"
+  ]
+}
